@@ -15,11 +15,9 @@ const Wrapper = styled(SafeAreaView)`
   justify-content: center;
   align-items: center;
 `
-
 const Game = styled(View)`
   max-width: 375px;
 `
-
 export default function App() {
   return (
     <Wrapper>
@@ -29,12 +27,3 @@ export default function App() {
     </Wrapper>
   )
 }
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center'
-  }
-})
