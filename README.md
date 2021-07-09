@@ -3,7 +3,8 @@ Chessboard in React Native! - Chessable Assessment
 
 Based on React Native + Expo
 
-- only the board as a separate component and dynamic size of the board
+- only renders the board as a separate component 
+- easily to change size of the entire board
 - easy to implement pieces components
 - easy to implement movements layer 
 
