@@ -1,5 +1,5 @@
-# chess_react_native
-Chessboard in React Native!
+# chess_react_native 
+Chessboard in React Native! - Chessable Assessment
 
 Based on React Native + Expo
 
